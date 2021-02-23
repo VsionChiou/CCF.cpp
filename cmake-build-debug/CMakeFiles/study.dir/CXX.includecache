@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Object/CPP/study/ccf/201412-3.cpp
+201412-3.h
+D:/Object/CPP/study/ccf/201412-3.h
+iostream
+-
+
+D:/Object/CPP/study/ccf/201412-3.h
+
+D:/Object/CPP/study/main.cpp
+ccf/201412-3.h
+D:/Object/CPP/study/ccf/201412-3.h
+iostream
+-
+string
+-
+map
+-
+
