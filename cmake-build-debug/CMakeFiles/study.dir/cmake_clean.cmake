@@ -22,6 +22,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/study.dir/ccf/201512-3.cpp.obj"
   "CMakeFiles/study.dir/ccf/201604-1.cpp.obj"
   "CMakeFiles/study.dir/ccf/201604-2.cpp.obj"
+  "CMakeFiles/study.dir/ccf/201604-3.cpp.obj"
   "CMakeFiles/study.dir/main.cpp.obj"
   "CMakeFiles/study.dir/test/operator_test.cpp.obj"
   "libstudy.dll.a"

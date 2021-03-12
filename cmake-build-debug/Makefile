@@ -763,6 +763,33 @@ ccf/201604-2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-2.cpp.s
 .PHONY : ccf/201604-2.cpp.s
 
+ccf/201604-3.obj: ccf/201604-3.cpp.obj
+
+.PHONY : ccf/201604-3.obj
+
+# target to build an object file
+ccf/201604-3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-3.cpp.obj
+.PHONY : ccf/201604-3.cpp.obj
+
+ccf/201604-3.i: ccf/201604-3.cpp.i
+
+.PHONY : ccf/201604-3.i
+
+# target to preprocess a source file
+ccf/201604-3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-3.cpp.i
+.PHONY : ccf/201604-3.cpp.i
+
+ccf/201604-3.s: ccf/201604-3.cpp.s
+
+.PHONY : ccf/201604-3.s
+
+# target to generate assembly for a file
+ccf/201604-3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-3.cpp.s
+.PHONY : ccf/201604-3.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -895,6 +922,9 @@ help:
 	@echo ... ccf/201604-2.obj
 	@echo ... ccf/201604-2.i
 	@echo ... ccf/201604-2.s
+	@echo ... ccf/201604-3.obj
+	@echo ... ccf/201604-3.i
+	@echo ... ccf/201604-3.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
