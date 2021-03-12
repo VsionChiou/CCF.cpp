@@ -232,6 +232,175 @@ CMakeFiles/study.dir/ccf/201412-3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201412-3.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201412-3.cpp -o CMakeFiles\study.dir\ccf\201412-3.cpp.s
 
+CMakeFiles/study.dir/test/operator_test.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/test/operator_test.cpp.obj: ../test/operator_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/study.dir/test/operator_test.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\test\operator_test.cpp.obj -c D:\Object\CPP\study\test\operator_test.cpp
+
+CMakeFiles/study.dir/test/operator_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/test/operator_test.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\test\operator_test.cpp > CMakeFiles\study.dir\test\operator_test.cpp.i
+
+CMakeFiles/study.dir/test/operator_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/test/operator_test.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\test\operator_test.cpp -o CMakeFiles\study.dir\test\operator_test.cpp.s
+
+CMakeFiles/study.dir/ccf/201503-1.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201503-1.cpp.obj: ../ccf/201503-1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/study.dir/ccf/201503-1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201503-1.cpp.obj -c D:\Object\CPP\study\ccf\201503-1.cpp
+
+CMakeFiles/study.dir/ccf/201503-1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201503-1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201503-1.cpp > CMakeFiles\study.dir\ccf\201503-1.cpp.i
+
+CMakeFiles/study.dir/ccf/201503-1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201503-1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201503-1.cpp -o CMakeFiles\study.dir\ccf\201503-1.cpp.s
+
+CMakeFiles/study.dir/ccf/201503-2.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201503-2.cpp.obj: ../ccf/201503-2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/study.dir/ccf/201503-2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201503-2.cpp.obj -c D:\Object\CPP\study\ccf\201503-2.cpp
+
+CMakeFiles/study.dir/ccf/201503-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201503-2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201503-2.cpp > CMakeFiles\study.dir\ccf\201503-2.cpp.i
+
+CMakeFiles/study.dir/ccf/201503-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201503-2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201503-2.cpp -o CMakeFiles\study.dir\ccf\201503-2.cpp.s
+
+CMakeFiles/study.dir/ccf/201503-3.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201503-3.cpp.obj: ../ccf/201503-3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/study.dir/ccf/201503-3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201503-3.cpp.obj -c D:\Object\CPP\study\ccf\201503-3.cpp
+
+CMakeFiles/study.dir/ccf/201503-3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201503-3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201503-3.cpp > CMakeFiles\study.dir\ccf\201503-3.cpp.i
+
+CMakeFiles/study.dir/ccf/201503-3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201503-3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201503-3.cpp -o CMakeFiles\study.dir\ccf\201503-3.cpp.s
+
+CMakeFiles/study.dir/ccf/201509-1.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201509-1.cpp.obj: ../ccf/201509-1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/study.dir/ccf/201509-1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201509-1.cpp.obj -c D:\Object\CPP\study\ccf\201509-1.cpp
+
+CMakeFiles/study.dir/ccf/201509-1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201509-1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201509-1.cpp > CMakeFiles\study.dir\ccf\201509-1.cpp.i
+
+CMakeFiles/study.dir/ccf/201509-1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201509-1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201509-1.cpp -o CMakeFiles\study.dir\ccf\201509-1.cpp.s
+
+CMakeFiles/study.dir/ccf/201509-2.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201509-2.cpp.obj: ../ccf/201509-2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/study.dir/ccf/201509-2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201509-2.cpp.obj -c D:\Object\CPP\study\ccf\201509-2.cpp
+
+CMakeFiles/study.dir/ccf/201509-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201509-2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201509-2.cpp > CMakeFiles\study.dir\ccf\201509-2.cpp.i
+
+CMakeFiles/study.dir/ccf/201509-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201509-2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201509-2.cpp -o CMakeFiles\study.dir\ccf\201509-2.cpp.s
+
+CMakeFiles/study.dir/ccf/201509-3.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201509-3.cpp.obj: ../ccf/201509-3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/study.dir/ccf/201509-3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201509-3.cpp.obj -c D:\Object\CPP\study\ccf\201509-3.cpp
+
+CMakeFiles/study.dir/ccf/201509-3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201509-3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201509-3.cpp > CMakeFiles\study.dir\ccf\201509-3.cpp.i
+
+CMakeFiles/study.dir/ccf/201509-3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201509-3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201509-3.cpp -o CMakeFiles\study.dir\ccf\201509-3.cpp.s
+
+CMakeFiles/study.dir/ccf/201312-4.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201312-4.cpp.obj: ../ccf/201312-4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/study.dir/ccf/201312-4.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201312-4.cpp.obj -c D:\Object\CPP\study\ccf\201312-4.cpp
+
+CMakeFiles/study.dir/ccf/201312-4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201312-4.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201312-4.cpp > CMakeFiles\study.dir\ccf\201312-4.cpp.i
+
+CMakeFiles/study.dir/ccf/201312-4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201312-4.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201312-4.cpp -o CMakeFiles\study.dir\ccf\201312-4.cpp.s
+
+CMakeFiles/study.dir/ccf/201512-1.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201512-1.cpp.obj: ../ccf/201512-1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/study.dir/ccf/201512-1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201512-1.cpp.obj -c D:\Object\CPP\study\ccf\201512-1.cpp
+
+CMakeFiles/study.dir/ccf/201512-1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201512-1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201512-1.cpp > CMakeFiles\study.dir\ccf\201512-1.cpp.i
+
+CMakeFiles/study.dir/ccf/201512-1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201512-1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201512-1.cpp -o CMakeFiles\study.dir\ccf\201512-1.cpp.s
+
+CMakeFiles/study.dir/ccf/201512-2.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201512-2.cpp.obj: ../ccf/201512-2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/study.dir/ccf/201512-2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201512-2.cpp.obj -c D:\Object\CPP\study\ccf\201512-2.cpp
+
+CMakeFiles/study.dir/ccf/201512-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201512-2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201512-2.cpp > CMakeFiles\study.dir\ccf\201512-2.cpp.i
+
+CMakeFiles/study.dir/ccf/201512-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201512-2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201512-2.cpp -o CMakeFiles\study.dir\ccf\201512-2.cpp.s
+
+CMakeFiles/study.dir/ccf/201512-3.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201512-3.cpp.obj: ../ccf/201512-3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/study.dir/ccf/201512-3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201512-3.cpp.obj -c D:\Object\CPP\study\ccf\201512-3.cpp
+
+CMakeFiles/study.dir/ccf/201512-3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201512-3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201512-3.cpp > CMakeFiles\study.dir\ccf\201512-3.cpp.i
+
+CMakeFiles/study.dir/ccf/201512-3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201512-3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201512-3.cpp -o CMakeFiles\study.dir\ccf\201512-3.cpp.s
+
+CMakeFiles/study.dir/ccf/201604-1.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201604-1.cpp.obj: ../ccf/201604-1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/study.dir/ccf/201604-1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201604-1.cpp.obj -c D:\Object\CPP\study\ccf\201604-1.cpp
+
+CMakeFiles/study.dir/ccf/201604-1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201604-1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201604-1.cpp > CMakeFiles\study.dir\ccf\201604-1.cpp.i
+
+CMakeFiles/study.dir/ccf/201604-1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201604-1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201604-1.cpp -o CMakeFiles\study.dir\ccf\201604-1.cpp.s
+
+CMakeFiles/study.dir/ccf/201604-2.cpp.obj: CMakeFiles/study.dir/flags.make
+CMakeFiles/study.dir/ccf/201604-2.cpp.obj: ../ccf/201604-2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/study.dir/ccf/201604-2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\study.dir\ccf\201604-2.cpp.obj -c D:\Object\CPP\study\ccf\201604-2.cpp
+
+CMakeFiles/study.dir/ccf/201604-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/study.dir/ccf/201604-2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Object\CPP\study\ccf\201604-2.cpp > CMakeFiles\study.dir\ccf\201604-2.cpp.i
+
+CMakeFiles/study.dir/ccf/201604-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/study.dir/ccf/201604-2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Object\CPP\study\ccf\201604-2.cpp -o CMakeFiles\study.dir\ccf\201604-2.cpp.s
+
 # Object files for target study
 study_OBJECTS = \
 "CMakeFiles/study.dir/ccf/201312-1.cpp.obj" \
@@ -245,7 +414,20 @@ study_OBJECTS = \
 "CMakeFiles/study.dir/ccf/201409-2.cpp.obj" \
 "CMakeFiles/study.dir/ccf/201409-3.cpp.obj" \
 "CMakeFiles/study.dir/ccf/201412.cpp.obj" \
-"CMakeFiles/study.dir/ccf/201412-3.cpp.obj"
+"CMakeFiles/study.dir/ccf/201412-3.cpp.obj" \
+"CMakeFiles/study.dir/test/operator_test.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201503-1.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201503-2.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201503-3.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201509-1.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201509-2.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201509-3.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201312-4.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201512-1.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201512-2.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201512-3.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201604-1.cpp.obj" \
+"CMakeFiles/study.dir/ccf/201604-2.cpp.obj"
 
 # External object files for target study
 study_EXTERNAL_OBJECTS =
@@ -262,11 +444,24 @@ study.exe: CMakeFiles/study.dir/ccf/201409-2.cpp.obj
 study.exe: CMakeFiles/study.dir/ccf/201409-3.cpp.obj
 study.exe: CMakeFiles/study.dir/ccf/201412.cpp.obj
 study.exe: CMakeFiles/study.dir/ccf/201412-3.cpp.obj
+study.exe: CMakeFiles/study.dir/test/operator_test.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201503-1.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201503-2.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201503-3.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201509-1.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201509-2.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201509-3.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201312-4.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201512-1.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201512-2.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201512-3.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201604-1.cpp.obj
+study.exe: CMakeFiles/study.dir/ccf/201604-2.cpp.obj
 study.exe: CMakeFiles/study.dir/build.make
 study.exe: CMakeFiles/study.dir/linklibs.rsp
 study.exe: CMakeFiles/study.dir/objects1.rsp
 study.exe: CMakeFiles/study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable study.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Object\CPP\study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable study.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\study.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

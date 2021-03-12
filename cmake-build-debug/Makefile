@@ -223,6 +223,33 @@ ccf/201312-3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201312-3.cpp.s
 .PHONY : ccf/201312-3.cpp.s
 
+ccf/201312-4.obj: ccf/201312-4.cpp.obj
+
+.PHONY : ccf/201312-4.obj
+
+# target to build an object file
+ccf/201312-4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201312-4.cpp.obj
+.PHONY : ccf/201312-4.cpp.obj
+
+ccf/201312-4.i: ccf/201312-4.cpp.i
+
+.PHONY : ccf/201312-4.i
+
+# target to preprocess a source file
+ccf/201312-4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201312-4.cpp.i
+.PHONY : ccf/201312-4.cpp.i
+
+ccf/201312-4.s: ccf/201312-4.cpp.s
+
+.PHONY : ccf/201312-4.s
+
+# target to generate assembly for a file
+ccf/201312-4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201312-4.cpp.s
+.PHONY : ccf/201312-4.cpp.s
+
 ccf/201403-1.obj: ccf/201403-1.cpp.obj
 
 .PHONY : ccf/201403-1.obj
@@ -439,6 +466,303 @@ ccf/201412.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201412.cpp.s
 .PHONY : ccf/201412.cpp.s
 
+ccf/201503-1.obj: ccf/201503-1.cpp.obj
+
+.PHONY : ccf/201503-1.obj
+
+# target to build an object file
+ccf/201503-1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-1.cpp.obj
+.PHONY : ccf/201503-1.cpp.obj
+
+ccf/201503-1.i: ccf/201503-1.cpp.i
+
+.PHONY : ccf/201503-1.i
+
+# target to preprocess a source file
+ccf/201503-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-1.cpp.i
+.PHONY : ccf/201503-1.cpp.i
+
+ccf/201503-1.s: ccf/201503-1.cpp.s
+
+.PHONY : ccf/201503-1.s
+
+# target to generate assembly for a file
+ccf/201503-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-1.cpp.s
+.PHONY : ccf/201503-1.cpp.s
+
+ccf/201503-2.obj: ccf/201503-2.cpp.obj
+
+.PHONY : ccf/201503-2.obj
+
+# target to build an object file
+ccf/201503-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-2.cpp.obj
+.PHONY : ccf/201503-2.cpp.obj
+
+ccf/201503-2.i: ccf/201503-2.cpp.i
+
+.PHONY : ccf/201503-2.i
+
+# target to preprocess a source file
+ccf/201503-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-2.cpp.i
+.PHONY : ccf/201503-2.cpp.i
+
+ccf/201503-2.s: ccf/201503-2.cpp.s
+
+.PHONY : ccf/201503-2.s
+
+# target to generate assembly for a file
+ccf/201503-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-2.cpp.s
+.PHONY : ccf/201503-2.cpp.s
+
+ccf/201503-3.obj: ccf/201503-3.cpp.obj
+
+.PHONY : ccf/201503-3.obj
+
+# target to build an object file
+ccf/201503-3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-3.cpp.obj
+.PHONY : ccf/201503-3.cpp.obj
+
+ccf/201503-3.i: ccf/201503-3.cpp.i
+
+.PHONY : ccf/201503-3.i
+
+# target to preprocess a source file
+ccf/201503-3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-3.cpp.i
+.PHONY : ccf/201503-3.cpp.i
+
+ccf/201503-3.s: ccf/201503-3.cpp.s
+
+.PHONY : ccf/201503-3.s
+
+# target to generate assembly for a file
+ccf/201503-3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201503-3.cpp.s
+.PHONY : ccf/201503-3.cpp.s
+
+ccf/201509-1.obj: ccf/201509-1.cpp.obj
+
+.PHONY : ccf/201509-1.obj
+
+# target to build an object file
+ccf/201509-1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-1.cpp.obj
+.PHONY : ccf/201509-1.cpp.obj
+
+ccf/201509-1.i: ccf/201509-1.cpp.i
+
+.PHONY : ccf/201509-1.i
+
+# target to preprocess a source file
+ccf/201509-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-1.cpp.i
+.PHONY : ccf/201509-1.cpp.i
+
+ccf/201509-1.s: ccf/201509-1.cpp.s
+
+.PHONY : ccf/201509-1.s
+
+# target to generate assembly for a file
+ccf/201509-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-1.cpp.s
+.PHONY : ccf/201509-1.cpp.s
+
+ccf/201509-2.obj: ccf/201509-2.cpp.obj
+
+.PHONY : ccf/201509-2.obj
+
+# target to build an object file
+ccf/201509-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-2.cpp.obj
+.PHONY : ccf/201509-2.cpp.obj
+
+ccf/201509-2.i: ccf/201509-2.cpp.i
+
+.PHONY : ccf/201509-2.i
+
+# target to preprocess a source file
+ccf/201509-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-2.cpp.i
+.PHONY : ccf/201509-2.cpp.i
+
+ccf/201509-2.s: ccf/201509-2.cpp.s
+
+.PHONY : ccf/201509-2.s
+
+# target to generate assembly for a file
+ccf/201509-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-2.cpp.s
+.PHONY : ccf/201509-2.cpp.s
+
+ccf/201509-3.obj: ccf/201509-3.cpp.obj
+
+.PHONY : ccf/201509-3.obj
+
+# target to build an object file
+ccf/201509-3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-3.cpp.obj
+.PHONY : ccf/201509-3.cpp.obj
+
+ccf/201509-3.i: ccf/201509-3.cpp.i
+
+.PHONY : ccf/201509-3.i
+
+# target to preprocess a source file
+ccf/201509-3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-3.cpp.i
+.PHONY : ccf/201509-3.cpp.i
+
+ccf/201509-3.s: ccf/201509-3.cpp.s
+
+.PHONY : ccf/201509-3.s
+
+# target to generate assembly for a file
+ccf/201509-3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201509-3.cpp.s
+.PHONY : ccf/201509-3.cpp.s
+
+ccf/201512-1.obj: ccf/201512-1.cpp.obj
+
+.PHONY : ccf/201512-1.obj
+
+# target to build an object file
+ccf/201512-1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-1.cpp.obj
+.PHONY : ccf/201512-1.cpp.obj
+
+ccf/201512-1.i: ccf/201512-1.cpp.i
+
+.PHONY : ccf/201512-1.i
+
+# target to preprocess a source file
+ccf/201512-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-1.cpp.i
+.PHONY : ccf/201512-1.cpp.i
+
+ccf/201512-1.s: ccf/201512-1.cpp.s
+
+.PHONY : ccf/201512-1.s
+
+# target to generate assembly for a file
+ccf/201512-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-1.cpp.s
+.PHONY : ccf/201512-1.cpp.s
+
+ccf/201512-2.obj: ccf/201512-2.cpp.obj
+
+.PHONY : ccf/201512-2.obj
+
+# target to build an object file
+ccf/201512-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-2.cpp.obj
+.PHONY : ccf/201512-2.cpp.obj
+
+ccf/201512-2.i: ccf/201512-2.cpp.i
+
+.PHONY : ccf/201512-2.i
+
+# target to preprocess a source file
+ccf/201512-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-2.cpp.i
+.PHONY : ccf/201512-2.cpp.i
+
+ccf/201512-2.s: ccf/201512-2.cpp.s
+
+.PHONY : ccf/201512-2.s
+
+# target to generate assembly for a file
+ccf/201512-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-2.cpp.s
+.PHONY : ccf/201512-2.cpp.s
+
+ccf/201512-3.obj: ccf/201512-3.cpp.obj
+
+.PHONY : ccf/201512-3.obj
+
+# target to build an object file
+ccf/201512-3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-3.cpp.obj
+.PHONY : ccf/201512-3.cpp.obj
+
+ccf/201512-3.i: ccf/201512-3.cpp.i
+
+.PHONY : ccf/201512-3.i
+
+# target to preprocess a source file
+ccf/201512-3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-3.cpp.i
+.PHONY : ccf/201512-3.cpp.i
+
+ccf/201512-3.s: ccf/201512-3.cpp.s
+
+.PHONY : ccf/201512-3.s
+
+# target to generate assembly for a file
+ccf/201512-3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201512-3.cpp.s
+.PHONY : ccf/201512-3.cpp.s
+
+ccf/201604-1.obj: ccf/201604-1.cpp.obj
+
+.PHONY : ccf/201604-1.obj
+
+# target to build an object file
+ccf/201604-1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-1.cpp.obj
+.PHONY : ccf/201604-1.cpp.obj
+
+ccf/201604-1.i: ccf/201604-1.cpp.i
+
+.PHONY : ccf/201604-1.i
+
+# target to preprocess a source file
+ccf/201604-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-1.cpp.i
+.PHONY : ccf/201604-1.cpp.i
+
+ccf/201604-1.s: ccf/201604-1.cpp.s
+
+.PHONY : ccf/201604-1.s
+
+# target to generate assembly for a file
+ccf/201604-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-1.cpp.s
+.PHONY : ccf/201604-1.cpp.s
+
+ccf/201604-2.obj: ccf/201604-2.cpp.obj
+
+.PHONY : ccf/201604-2.obj
+
+# target to build an object file
+ccf/201604-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-2.cpp.obj
+.PHONY : ccf/201604-2.cpp.obj
+
+ccf/201604-2.i: ccf/201604-2.cpp.i
+
+.PHONY : ccf/201604-2.i
+
+# target to preprocess a source file
+ccf/201604-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-2.cpp.i
+.PHONY : ccf/201604-2.cpp.i
+
+ccf/201604-2.s: ccf/201604-2.cpp.s
+
+.PHONY : ccf/201604-2.s
+
+# target to generate assembly for a file
+ccf/201604-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-2.cpp.s
+.PHONY : ccf/201604-2.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -466,6 +790,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+test/operator_test.obj: test/operator_test.cpp.obj
+
+.PHONY : test/operator_test.obj
+
+# target to build an object file
+test/operator_test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/test/operator_test.cpp.obj
+.PHONY : test/operator_test.cpp.obj
+
+test/operator_test.i: test/operator_test.cpp.i
+
+.PHONY : test/operator_test.i
+
+# target to preprocess a source file
+test/operator_test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/test/operator_test.cpp.i
+.PHONY : test/operator_test.cpp.i
+
+test/operator_test.s: test/operator_test.cpp.s
+
+.PHONY : test/operator_test.s
+
+# target to generate assembly for a file
+test/operator_test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/test/operator_test.cpp.s
+.PHONY : test/operator_test.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -484,6 +835,9 @@ help:
 	@echo ... ccf/201312-3.obj
 	@echo ... ccf/201312-3.i
 	@echo ... ccf/201312-3.s
+	@echo ... ccf/201312-4.obj
+	@echo ... ccf/201312-4.i
+	@echo ... ccf/201312-4.s
 	@echo ... ccf/201403-1.obj
 	@echo ... ccf/201403-1.i
 	@echo ... ccf/201403-1.s
@@ -508,9 +862,45 @@ help:
 	@echo ... ccf/201412.obj
 	@echo ... ccf/201412.i
 	@echo ... ccf/201412.s
+	@echo ... ccf/201503-1.obj
+	@echo ... ccf/201503-1.i
+	@echo ... ccf/201503-1.s
+	@echo ... ccf/201503-2.obj
+	@echo ... ccf/201503-2.i
+	@echo ... ccf/201503-2.s
+	@echo ... ccf/201503-3.obj
+	@echo ... ccf/201503-3.i
+	@echo ... ccf/201503-3.s
+	@echo ... ccf/201509-1.obj
+	@echo ... ccf/201509-1.i
+	@echo ... ccf/201509-1.s
+	@echo ... ccf/201509-2.obj
+	@echo ... ccf/201509-2.i
+	@echo ... ccf/201509-2.s
+	@echo ... ccf/201509-3.obj
+	@echo ... ccf/201509-3.i
+	@echo ... ccf/201509-3.s
+	@echo ... ccf/201512-1.obj
+	@echo ... ccf/201512-1.i
+	@echo ... ccf/201512-1.s
+	@echo ... ccf/201512-2.obj
+	@echo ... ccf/201512-2.i
+	@echo ... ccf/201512-2.s
+	@echo ... ccf/201512-3.obj
+	@echo ... ccf/201512-3.i
+	@echo ... ccf/201512-3.s
+	@echo ... ccf/201604-1.obj
+	@echo ... ccf/201604-1.i
+	@echo ... ccf/201604-1.s
+	@echo ... ccf/201604-2.obj
+	@echo ... ccf/201604-2.i
+	@echo ... ccf/201604-2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... test/operator_test.obj
+	@echo ... test/operator_test.i
+	@echo ... test/operator_test.s
 .PHONY : help
 
 

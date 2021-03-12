@@ -95,6 +95,12 @@
 		<Unit filename="D:/Object/CPP/study/ccf/201312-3.h">
 			<Option target="study"/>
 		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201312-4.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201312-4.h">
+			<Option target="study"/>
+		</Unit>
 		<Unit filename="D:/Object/CPP/study/ccf/201403-1.cpp">
 			<Option target="study"/>
 		</Unit>
@@ -143,7 +149,79 @@
 		<Unit filename="D:/Object/CPP/study/ccf/201412.h">
 			<Option target="study"/>
 		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201503-1.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201503-1.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201503-2.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201503-2.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201503-3.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201503-3.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201509-1.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201509-1.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201509-2.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201509-2.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201509-3.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201509-3.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201512-1.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201512-1.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201512-2.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201512-2.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201512-3.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201512-3.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201604-1.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201604-1.h">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201604-2.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/ccf/201604-2.h">
+			<Option target="study"/>
+		</Unit>
 		<Unit filename="D:/Object/CPP/study/main.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/test/operator_test.cpp">
+			<Option target="study"/>
+		</Unit>
+		<Unit filename="D:/Object/CPP/study/test/operator_test.h">
 			<Option target="study"/>
 		</Unit>
 		<Unit filename="D:/Object/CPP/study/CMakeLists.txt">

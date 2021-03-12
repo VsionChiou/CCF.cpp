@@ -1,0 +1,30 @@
+11 3
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User {{ name }}</title>
+</head>
+<body>
+<h1>{{ name }}</h1>
+<p>Email: <a href="mailto:{{ email }}">{{ email }}</a></p>
+<p>Address:{{ address }}</p>
+</body>
+</html>
+name "David Beckham"
+email "david@beckham.com"
+address "{{ name }}@qq.com"
+
+1 1
+<p>Email: <a href="mailto:{{ email }}">{{ email }}</a></p>
+email "david@beckham.com"
+
+1 1
+<p>Email: <a href="mailto:{{ email }}">{{ Email }}</a></p>
+email "      {{ name }}"
+
+1 1
+fsd{{ name }}{{ name }}{{ add }}{{ Name }}
+name "vsion"
+
+
+
