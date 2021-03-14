@@ -6,6 +6,8 @@
 #include <string>
 #include "algorithm"
 #include <map>
+#include <sstream>
+#include <typeinfo>
 
 using namespace std;
 
@@ -22,12 +24,13 @@ void insertSort(int a[], int n){
 }
 /*
 int main(){
-    int array[9] = {-1, 9, 2, 5, 8, 3, 7, 6, 1};
-    insertSort(array, 8);
-    for (int i = 1; i < 9; ++i) {
-        cout<<array[i]<<endl;
-
-    }
+    stringstream ss;
+    int x = 911;
+    ss<<x;
+    string str;
+    str = "str";
+//    ss>>str;
     return 0;
-}*/
+}
+*/
 
