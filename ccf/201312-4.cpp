@@ -11,13 +11,10 @@ using namespace std;
 int funnyDigital(){
     int n;
     cin>>n;
-    int num[1001];
-
-
-    for (int i = 1; i < n; ++i) {
-        if (i-1==0){
-
-        }
+    long long x;
+//先找到n位的起始点
+    for(int i =0;i<n;i++){
+        
     }
 }
 

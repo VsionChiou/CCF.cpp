@@ -790,6 +790,60 @@ ccf/201604-3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201604-3.cpp.s
 .PHONY : ccf/201604-3.cpp.s
 
+ccf/201609-1.obj: ccf/201609-1.cpp.obj
+
+.PHONY : ccf/201609-1.obj
+
+# target to build an object file
+ccf/201609-1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201609-1.cpp.obj
+.PHONY : ccf/201609-1.cpp.obj
+
+ccf/201609-1.i: ccf/201609-1.cpp.i
+
+.PHONY : ccf/201609-1.i
+
+# target to preprocess a source file
+ccf/201609-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201609-1.cpp.i
+.PHONY : ccf/201609-1.cpp.i
+
+ccf/201609-1.s: ccf/201609-1.cpp.s
+
+.PHONY : ccf/201609-1.s
+
+# target to generate assembly for a file
+ccf/201609-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201609-1.cpp.s
+.PHONY : ccf/201609-1.cpp.s
+
+ccf/201609-2.obj: ccf/201609-2.cpp.obj
+
+.PHONY : ccf/201609-2.obj
+
+# target to build an object file
+ccf/201609-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201609-2.cpp.obj
+.PHONY : ccf/201609-2.cpp.obj
+
+ccf/201609-2.i: ccf/201609-2.cpp.i
+
+.PHONY : ccf/201609-2.i
+
+# target to preprocess a source file
+ccf/201609-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201609-2.cpp.i
+.PHONY : ccf/201609-2.cpp.i
+
+ccf/201609-2.s: ccf/201609-2.cpp.s
+
+.PHONY : ccf/201609-2.s
+
+# target to generate assembly for a file
+ccf/201609-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\study.dir\build.make CMakeFiles/study.dir/ccf/201609-2.cpp.s
+.PHONY : ccf/201609-2.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -925,6 +979,12 @@ help:
 	@echo ... ccf/201604-3.obj
 	@echo ... ccf/201604-3.i
 	@echo ... ccf/201604-3.s
+	@echo ... ccf/201609-1.obj
+	@echo ... ccf/201609-1.i
+	@echo ... ccf/201609-1.s
+	@echo ... ccf/201609-2.obj
+	@echo ... ccf/201609-2.i
+	@echo ... ccf/201609-2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

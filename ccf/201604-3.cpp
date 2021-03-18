@@ -13,42 +13,22 @@ using namespace std;
 
 int path_resolve(){
     int n;
-    int cur = 0;
-    string current;
-    string temp;
-    vector<string> now, path;
+    string current, last, temp;
+    vector<string> path;
     cin>>n;
+    cin>>last;
     cin.get();
-    getline(cin, current);
-    for (char & i : current) {
-        if (i=='/') i = ' ';
-    }
-    stringstream ss(current);
-    while (ss>>temp){
-        now.push_back(temp);
-    }
     for (int i = 0; i < n; ++i) {
         getline(cin, temp);
-        if (temp[0]!='/'){
-            path = now;
-        }
-        for (char &j:temp) {
-            if (j=='/') j = ' ';
-        }
+        if (temp[0]!='/') temp = last + "/"+ temp;
+        for (char &j:temp) if (j=='/') j = ' ';
         stringstream re(temp);
         while(re>>current){
-            if (current.find("..")==0) {
-                if (!path.empty()) {
-                    path.pop_back();
-                }else {
-                    continue;
-                }
-            }else if (current.find('.')==0){
-                continue;
-            }else{
-                path.push_back(current);
-            }
+            if (current==".."&&!path.empty()) path.pop_back();
+            else if (current==".") continue;
+            else path.push_back(current);
         }
+        if (path.empty()) cout<<"/";
         for (vector<string>::iterator it = path.begin(); it!=path.end(); it++) {
             cout<<"/"<<(*it);
         }
@@ -58,12 +38,11 @@ int path_resolve(){
 
     return 0;
 }
-
-int main()
+/*int main()
 {
     path_resolve();
     return 0;
-}
+}*/
 
 /*
 
@@ -96,5 +75,5 @@ int main()
         cout << endl;
     }
 }
-
 */
+
